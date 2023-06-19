@@ -1,0 +1,26 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "A QR Code Generator using node.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhgit1/qr-code-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhgit1/qr-code-generator/issues"
+  },
+  "homepage": "https://github.com/saurabhgit1/qr-code-generator#readme",
+  "dependencies": {
+    "file-system": "^2.2.2",
+    "inquirer": "^9.2.7",
+    "qr-image": "^3.2.0"
+  },
+  "devDependencies": {}
+}
